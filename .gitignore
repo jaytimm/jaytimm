@@ -1,0 +1,12 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Session data
+.Rapp.history
+
+# OS files
+.DS_Store
+Thumbs.db
