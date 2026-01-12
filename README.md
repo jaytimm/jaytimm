@@ -11,9 +11,10 @@ I'm a computational researcher working at the intersection of NLP and data scien
 - [textpress](https://github.com/jaytimm/textpress) - Lightweight NLP toolkit for web scraping, text processing, and semantic search
 - [packagename2](link) - Brief description
 
-🔗 **Links:**
-- ORCID: [![ORCID](https://img.shields.io/badge/ORCID-YOUR--ID-green.svg)](https://orcid.org/YOUR-ID)
-- Personal site: [your-site.com](https://your-site.com)
-- LinkedIn: [profile](https://linkedin.com/in/yourprofile)
+
+---
+
+[![ORCID](https://img.shields.io/badge/ORCID-YOUR--ID-green.svg)](https://orcid.org/YOUR-ID)
+
 
 💬 Feel free to reach out about collaboration opportunities or R package development.
