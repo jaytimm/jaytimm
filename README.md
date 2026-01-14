@@ -10,4 +10,4 @@ Developing R packages for text analysis and biomedical data processing. See [tex
 
 **📊 Data Projects**
 
-Independent analysis of American political and civic data: [american-political-data-and-r](https://github.com/jaytimm/american-political-data-and-r). State and local New Mexico politics: [jtimm.net](https://jtimm.net/).
+Independent analysis of American political data ([american-political-data-and-r](https://github.com/jaytimm/american-political-data-and-r)) and New Mexico state and local politics ([jtimm.net](https://jtimm.net/)).
