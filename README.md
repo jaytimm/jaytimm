@@ -1,20 +1,13 @@
-### Hi, I'm Jason 👋
+Research Assistant Professor at UNM working in computational linguistics and biomedical NLP.
 
-I'm a computational researcher working at the intersection of NLP and data science.
+## Research Focus
 
-🔬 **Current work:**
-- Industry-funded research at [Your University]
-- Developing R packages for text analysis and corpus linguistics
-- Collaborating on NIH-funded projects
+Computational linguistics approaches to biomedical text analysis, including large language models and retrieval-augmented generation systems.
 
-📦 **R Packages:**
-- [textpress](https://github.com/jaytimm/textpress) - Lightweight NLP toolkit for web scraping, text processing, and semantic search
-- [packagename2](link) - Brief description
+## R Packages
 
+Developing R packages for text analysis and biomedical data processing. See [textpress](https://github.com/jaytimm/textpress) and [puremoe](https://github.com/jaytimm/puremoe).
 
----
+## Data Projects
 
-[![ORCID](https://img.shields.io/badge/ORCID-YOUR--ID-green.svg)](https://orcid.org/YOUR-ID)
-
-
-💬 Feel free to reach out about collaboration opportunities or R package development.
+Independent analysis of American political and civic data: [american-political-data-and-r](https://github.com/jaytimm/american-political-data-and-r). State and local New Mexico politics: [jtimm.net](https://jtimm.net/).
