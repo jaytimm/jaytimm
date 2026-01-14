@@ -6,7 +6,7 @@ Applied computational linguistics for biomedical text analysis. Working with lar
 
 **📦 R Packages**
 
-Developing R packages for text analysis and biomedical data processing. See [textpress](https://github.com/jaytimm/textpress) and [puremoe](https://github.com/jaytimm/puremoe).
+Developing R packages for text analysis and biomedical data processing. See [textpress](https://github.com/jaytimm/textpress) and [puremoe](https://github.com/jaytimm/puremoe) as examples.
 
 **📊 Data Projects**
 
