@@ -2,7 +2,7 @@
 
 **🔬 Research Focus**
 
-Applied computational linguistics for biomedical text analysis. Working with large language models and retrieval-augmented generation systems.
+Applied computational linguistics for biomedical text analysis, including large language models and retrieval-augmented generation systems.
 
 **📦 R Packages**
 
