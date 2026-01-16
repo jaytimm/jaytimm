@@ -1,4 +1,4 @@
-**I am a Research Assistant Professor at UNM** working in computational linguistics and biomedical NLP.
+**I am a Research Assistant Professor at the University of New Mexico** working in computational linguistics and biomedical NLP.
 
 **🔬 Research Focus**
 
