@@ -1,12 +1,16 @@
-**I am a Research Assistant Professor at the University of New Mexico** working in computational linguistics and biomedical NLP.
+**I am a Research Assistant Professor at the University of New Mexico** working in applied NLP, biomedical text mining, and LLM evaluation. I have a PhD in Linguistics.
 
 **🔬 Research Focus**
 
-Applied computational linguistics for biomedical text analysis, including large language models and retrieval-augmented generation systems.
+I build reproducible pipelines for literature screening, structured extraction, knowledge-base construction, retrieval-augmented generation, and validation against human judgments. My current research also examines how LLM-derived psycholinguistic ratings compare with human norms and embedding-based estimates.
 
 **📦 R Packages**
 
-R package development for text analysis and biomedical data processing. See [textpress](https://github.com/jaytimm/textpress) and [puremoe](https://github.com/jaytimm/puremoe) as examples.
+I develop open-source R tools for biomedical literature and text research:
+
+- [puremoe](https://github.com/jaytimm/puremoe) — a PMID-centered interface to PubMed and related NIH/NLM literature data.
+- [textpress](https://github.com/jaytimm/textpress) — tools for building and searching web text corpora using traditional, semantic, and LLM-assisted workflows.
+- [lexis](https://github.com/jaytimm/lexis) — a harmonized word-level resource for English psycholinguistic norms and lexical data.
 
 **📊 Data Projects**
 
