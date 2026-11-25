@@ -2,7 +2,7 @@
 
 **🔬 Research Focus**
 
-I build reproducible pipelines for literature screening, structured extraction, knowledge-base construction, retrieval-augmented generation, and validation against human judgments. My current research also examines how LLM-derived psycholinguistic ratings compare with human norms and embedding-based estimates.
+I build reproducible pipelines for literature screening, structured extraction, knowledge-base construction, and retrieval-augmented applications. My current research also examines how LLM-derived psycholinguistic ratings compare with human norms and embedding-based estimates.
 
 **📦 R Packages**
 
