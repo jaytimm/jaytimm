@@ -1,8 +1,8 @@
-**I am a Research Assistant Professor at the University of New Mexico** working in applied NLP, biomedical text mining, and LLM evaluation. I have a PhD in Linguistics.
+**I am a Research Assistant Professor at the University of New Mexico** working in applied NLP, biomedical text mining, and LLM systems. I have a PhD in Linguistics.
 
 **🔬 Research Focus**
 
-I build reproducible pipelines for literature screening, structured extraction, knowledge-base construction, and retrieval-augmented applications. My current research also examines how LLM-derived psycholinguistic ratings compare with human norms and embedding-based estimates.
+I build pipelines and research tools for literature screening, structured extraction, knowledge-base construction, retrieval-augmented applications, and lightweight research chatbots. My current research also examines how LLM-derived psycholinguistic ratings compare with human norms and embedding-based estimates.
 
 **📦 R Packages**
 
